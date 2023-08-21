@@ -40,5 +40,6 @@ module.exports = {
     // Обязательно указывать типы для свойств и переменных
     "@typescript-eslint/typedef": ["error", { "propertyDeclaration": true, "variableDeclaration": true }],
 
+    "no-trailing-spaces": "error",
   },
 }

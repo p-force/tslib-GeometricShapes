@@ -4,7 +4,7 @@
   "description": "Library for working with geometric shapes",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node src/index.ts",
+    "start": "tsc",
     "lint": "eslint --fix src/*"
   },
   "author": "",
