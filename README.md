@@ -55,16 +55,11 @@
 
 ## Пример использования:
 
-<code>
+```
 const rectangle: Rectangle = new Rectangle(5, 10);
-</br>
 console.log("Rectangle area:", rectangle.getArea());
-</br>
 console.log("Rectangle perimeter", rectangle.getPerimeter());
-</br>
 console.log("Rectangle width:", rectangle.width);
-</br>
 rectangle.width = 20;
-</br>
 console.log("Rectangle new area:", rectangle.getArea());
-</code>
+```
